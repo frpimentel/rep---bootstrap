@@ -1,0 +1,61 @@
+.ico{
+    width: 10%;
+    padding: 0% 0% 0% 2%;
+    margin-top: -10;
+   
+    
+   
+   
+}
+
+.icon{
+    
+    width: 5%;
+    display: inline-block;  
+    position:absolute;
+    margin-left: 24%;
+    margin-top: 0%;
+    
+}
+.icon1{
+   width: 5%;
+   margin-left: 30%;
+   position: absolute;
+      
+   
+}.icon2{
+    
+    width: 5%;
+    position: absolute;
+    margin-left: 36%;
+    
+ 
+}.icon3{
+    
+    width: 5%;
+    position:absolute;
+    margin-left: 42%;  
+}
+footer{
+    
+    bottom: 10%;
+    width: 100%;
+    margin-top: 5%;
+    padding-top: 5% ;      
+    background-color: #2369B8;
+    height: 100%;
+}
+.text{
+    margin-top: -2%;
+    margin-left: 27%;
+    
+}
+.texto{
+   color: #2369B8;
+}
+.card-group{
+    margin-top: 20px;
+}
+.form-inline{
+    margin-right: 0px;
+}
